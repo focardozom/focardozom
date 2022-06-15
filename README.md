@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **focardozom/focardozom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: foc9@miami.edu
 - 😄 Pronouns: He / him / his
 - ⚡ Fun fact: I am doing a Ph.D.
--->
+
