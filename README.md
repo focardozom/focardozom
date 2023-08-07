@@ -1,15 +1,12 @@
-### Hi there 👋
-
-
-- 🔭 I am doing research on alcohol use prevention in adolescents.
-- 🏡 I'm data scientist in `Figura 1` corporation. 
-- 🌱 I’m currently learning machine learning.
-- 👯 I’m looking to collaborate on data science projects.
-- 🤔 I like working on program evaluations. 
-- 🥷🏻 I like social networks analysis.
-- 💬 Ask me about shiny.
+Hello!
+- 🔭 I'm actively engaged in research focused on preventing alcohol use in adolescents.
+- 🌱 I'm currently delving deeper into the realm of machine learning.
+- 👯 I'm open to collaboration on data science projects that align with my interests and skills.
+- 🤔 Program evaluations pique my interest, and I enjoy contributing to them.
+- 🥷🏻 Social network analysis is another area I'm passionate about.
+- 💬 Feel free to ask me anything about Shiny, a tool I regularly use in my work.
+- 🏡 As a data scientist at Figura 1 Corporation, I apply analytical skills to interpret complex data.
 - 📫 You can reach me at foc9@miami.edu.
-- 😄 I like chess.
-- ⚡ Fun fact: I am pursuing a Ph.D.
-
+- 😄 I have a penchant for chess, always up for a good game!
+- ⚡ Fun fact: I'm currently pursuing a Ph.D.
 
