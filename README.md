@@ -1,8 +1,9 @@
 # Francisco Cardozo, MSc - Prevention Science 🌍
 
 ## About Me 📚
-As a passionate advocate for prevention science, I focus on two key areas:
+As a passionate advocate for prevention science, I focus on three areas:
 
+- **AI for program implementation** 🤖: My research work focuses on the use of AI (LLMs) to enhance program implementation. 
 - **Evaluating Preventive Interventions** 🧐: I am deeply involved in assessing programs aimed at fostering healthy development of people.
 - **Designing Preventive Strategies** 🛠️: My work includes crafting innovative interventions to preempt health issues before they arise.
 
@@ -15,8 +16,8 @@ In my pursuit of a PhD, I am exploring the integration of Machine Learning model
 I co-founded Figure 01, a venture committed to enabling communities and organizations to assess and amplify the impact of their interventions. Operating primarily in Colombia, Figure 01 has contributed to numerous global program evaluations. Learn more about our mission and projects [here](https://www.figura01.com).
 
 ## Workshops 🚧
-I regularly develop and present workshops 🏫 aimed at introducing innovative techniques and tools for community and organizational development. These resources are freely available for adaptation and use, accessible via [my workshops website](https://focardozom.github.io/workshops/).
+I regularly develop and present workshops aimed at introducing innovative techniques and tools for community and organizational development. These resources are freely available for adaptation and use, accessible via [my workshops website](https://focardozom.github.io/workshops/).
 
-Thank you for your interest in my work! If you have any questions or would like to collaborate, please feel free to reach out. I am always open to new ideas and opportunities. Let's connect! 🤝
+Thank you for your interest in my work! If you have any questions or would like to collaborate, please feel free to reach out. I am always open to new ideas and opportunities.
 
 [Contact me](mailto:foc9@miami.edu)
