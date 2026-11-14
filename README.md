@@ -1,23 +1,29 @@
-# Francisco Cardozo, MSc - Prevention Science 🌍
+# Francisco Cardozo, PhD
 
-## About Me 📚
-As a passionate advocate for prevention science, I focus on three areas:
+Postdoctoral Research Associate at the [University of Miami Miller School of Medicine](https://med.miami.edu/). I use data, machine learning, and AI to develop and evaluate prevention programs, with a focus on how those interventions are implemented.
 
-- **AI for program implementation** 🤖: My research work focuses on the use of AI (LLMs) to enhance program implementation. 
-- **Evaluating Preventive Interventions** 🧐: I am deeply involved in assessing programs aimed at fostering healthy development of people.
-- **Designing Preventive Strategies** 🛠️: My work includes crafting innovative interventions to preempt health issues before they arise.
+I also publish as Francisco Cardozo-Macías.
 
-Discover more about my projects on [my personal website](https://focardozom.github.io).
+## Research
 
-## PhD Student 🎓
-In my pursuit of a PhD, I am exploring the integration of Machine Learning models 🤖 to enhance the development and effectiveness of health interventions. My research also extends to applying statistical models 📈, which are crucial in understanding the dynamics of interventions, including their mechanisms and target demographic effectiveness.
+- **AI for program implementation.** I use large language models to support delivery and coding of prevention programs, including motivational interviewing.
+- **Evaluating preventive interventions.** I assess programs aimed at healthy development, especially substance use prevention.
+- **Open research software.** I build R packages and teaching materials so methods stay reproducible and accessible.
 
-## Figure 01 🏢
-I co-founded Figure 01, a venture committed to enabling communities and organizations to assess and amplify the impact of their interventions. Operating primarily in Colombia, Figure 01 has contributed to numerous global program evaluations. Learn more about our mission and projects [here](https://www.figura01.com).
+More on [my website](https://focardozom.github.io).
 
-## Workshops 🚧
-I regularly develop and present workshops aimed at introducing innovative techniques and tools for community and organizational development. These resources are freely available for adaptation and use, accessible via [my workshops website](https://focardozom.github.io/workshops/).
+## Links
 
-Thank you for your interest in my work! If you have any questions or would like to collaborate, please feel free to reach out. I am always open to new ideas and opportunities.
+- [CV](https://github.com/focardozom/cv/blob/main/cv.pdf)
+- [Publications](https://focardozom.github.io/publications.html)
+- [Google Scholar](https://scholar.google.com/citations?user=X5BtC3wAAAAJ)
+- [ORCID](https://orcid.org/0000-0002-1925-4954)
+- [Workshops](https://focardozom.github.io/workshops/)
 
-[Contact me](mailto:foc9@miami.edu)
+## Figure 01
+
+I co-founded [Figure 01](https://www.figura01.com), which helps communities and organizations measure and strengthen the impact of their interventions. The work is based mainly in Colombia and includes program evaluations elsewhere.
+
+## Contact
+
+[foc9@miami.edu](mailto:foc9@miami.edu)
